@@ -26,6 +26,11 @@ Azerbaijani language. Some processes are required to prepare the data before the
   * __RESULTS__
   
     We wanted to predict sentiment movie reviews. For the experiment purpose, we collected more than 80.000 reviews of 33 modern Azerbaijan movies. Next, we used a final model to make predictions for new textual reviews. Predicting the sentiment of new reviews involves following the same steps used to prepare the test data. Specifically, loading the text, cleaning the document, filtering tokens by the chosen vocabulary, converting the remaining tokens to a line, encoding it using the Tokenizer, and making a prediction. 
+    
     We can then make predictions for new review texts. You will see an example with both a clearly positive and a clearly negative review using the simple MLP developed above with the frequency word scoring mode.
     
     ![picture alt](https://i.ibb.co/q9B7VCN/untitled.png "Title is optional")
+
+     As you see from the chart above, “My name is Intigam” and “Zeher tulugu 4” movies have maximum positive sentiments, while “Yumurta” has received the worst comments from the users. Besides of this, although “Ikinci perde” movie is considered one of the best in our country, the most negative words used in the comments are about the subject of this film and it affects sentiment value badly. For example the movie subject is about betrayal and most comments contain this word which accepted as negative sentiment by our model. 
+
+    Moreover, Moreover, the movies in the list belong to different genres and we are  able to see the positive reviews for each movie mostly. The reason for this is not just because this movie is perfect, but because the audience group is different.
