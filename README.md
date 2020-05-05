@@ -33,4 +33,4 @@ Azerbaijani language. Some processes are required to prepare the data before the
 
      As you see from the chart above, “My name is Intigam” and “Zeher tulugu 4” movies have maximum positive sentiments, while “Yumurta” has received the worst comments from the users. Besides of this, although “Ikinci perde” movie is considered one of the best in our country, the most negative words used in the comments are about the subject of this film and it affects sentiment value badly. For example the movie subject is about betrayal and most comments contain this word which accepted as negative sentiment by our model. 
 
-    Moreover, Moreover, the movies in the list belong to different genres and we are  able to see the positive reviews for each movie mostly. The reason for this is not just because this movie is perfect, but because the audience group is different.
+    Moreover, the movies in the list belong to different genres and we are  able to see the positive reviews for each movie mostly. The reason for this is not just because this movie is perfect, but because the audience group is different.
