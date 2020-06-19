@@ -1,5 +1,7 @@
 # DEEP-LEARNING-FOR-SENTIMENT-ANALYSIS-ON-REVIEWS-OF-MODERN-AZERBAIJANI-MOVIES
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8c4076012b6640b3a8440c25c7ed1ee3)](https://app.codacy.com/manual/NijatZeynalov/DEEP-LEARNING-FOR-SENTIMENT-ANALYSIS-ON-REVIEWS-OF-MODERN-AZERBAIJANI-MOVIES?utm_source=github.com&utm_medium=referral&utm_content=NijatZeynalov/DEEP-LEARNING-FOR-SENTIMENT-ANALYSIS-ON-REVIEWS-OF-MODERN-AZERBAIJANI-MOVIES&utm_campaign=Badge_Grade_Dashboard)
+
 In this project, I investigate the comments associated with a set of modern Azerbaijani movies and perform sentiment analysis of each comment which is classified into positive or negative polarity. The project mainly describes the implementation of the Multilayer Perceptron (MLP) model - that can be used to detect sentiments from the text. 
 
 The project consists of three primary components:
