@@ -11,7 +11,7 @@ The project consists of three primary components:
   The main objective of this component is to retrieve and pre-process movie review text data in the Azerbaijani which will use for predicting sentiments of new reviews. Although, most of data on social media is text-based, it is not possible to directly apply deep learning processes to this raw data and text data preparation is different for each problem. Preparation starts with simple steps, like loading data, but quickly gets difficult with cleaning tasks, filtering only the relevant data which are very specific to the data we are working with.
   
    One of the biggest obstacles to this study was the lack of resources that prevents us to produce better quality text data in the
-Azerbaijani language. Some processes are required to prepare the data before the algorithms are implemented and in this project, you will discover how to prepare movie review text data for sentiment analysis in Azerbaijani.
+Azerbaijani language. Some processes are required to prepare the data before the algorithms are implemented and in this project,you will discover how to prepare movie review text data for sentiment analysis in Azerbaijani.
 
 * [__DEVELOPING A NEURAL BAG-OF-WORDS MODEL FOR SENTIMENT ANALYSIS__ ](https://www.researchgate.net/publication/341114898_DEVELOPING_A_NEURAL_BAG-OF-WORDS_MODEL_FOR_SENTIMENT_ANALYSIS "Study link")
 
